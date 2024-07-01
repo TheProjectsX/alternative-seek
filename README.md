@@ -24,3 +24,19 @@ Find, Get, Recommend Alternatives for Any Product!
 - React-Helmet: To Update site Title
 - Sweet Alert 2
 - Swiper JS
+
+## To Run the Project:
+- Clone this Repository
+- Update the ENV Variables
+- Run on Terminal from the Project Folders:
+
+For client-side:
+```
+npm install
+npm run dev
+```
+For server-side:
+```
+npm install
+node index.js
+```
